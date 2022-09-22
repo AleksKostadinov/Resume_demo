@@ -8,7 +8,7 @@ from . models import (
     Portfolio,
     Blog,
     Certificate,
-    Skill,
+    Skill
 )
 
 @admin.register(UserProfile)

@@ -295,14 +295,14 @@ a, .btn {
   padding: 80px 0;
 }
 .sectionSpaceSm {
-  padding: 35px 0;
+  padding: 33px 0;
 }
 .ksText {
 	display: block;
 	padding-top: 10px;
 }
 .keySkillCard + .keySkillCard {
-  padding-top: 25px;
+  padding-top: 35px;
 }
 .keySkillCol {
   width: 300px;
